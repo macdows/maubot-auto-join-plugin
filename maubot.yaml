@@ -1,0 +1,10 @@
+maubot: 0.1.0
+id: app.cliquers.autojoiner
+version: 1.0.0
+license: MIT
+modules:
+- maubot_autojoiner
+
+main_class: AutoJoinerBot
+
+config: true

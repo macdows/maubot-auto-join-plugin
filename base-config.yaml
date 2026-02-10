@@ -1,0 +1,7 @@
+# Your space ID (get from room settings)
+space_id: "!example:cliquers.app"
+
+# Rooms to auto-invite users to
+auto_join_rooms:
+  - "!room1:cliquers.app"
+  - "!room2:cliquers.app"
